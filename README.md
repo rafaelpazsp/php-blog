@@ -21,5 +21,5 @@ Blog com PHP
 - Aula 17 - NodeJS, NPM e Bower - instalando bootstrap e angularjs
 - Aula 18 - Angular JS
 - Aula 19 - Login (JWT)
-- Aula 20 - REST APT (separando front do backend)
+- Aula 20 - REST API (separando front do backend)
 ...
