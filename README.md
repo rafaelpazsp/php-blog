@@ -5,17 +5,18 @@ Blog com PHP
 - Aula 02 - Git (github)
 - Aula 03 - Bootstrap CSS
 - Aula 04 - Fatiando páginas com PHP (estrutural)
-- Aula 05 - Listando postagens do banco de dados (estrutural)
-- Aula 06 - MVC e Front Controller
-- Aula 07 - Aplicando PHP Orientado a Objetos
-- Aula 08 - Composer
-- Aula 09 - Administração - login (session)
-- Aula 10 - Administração - cadastrar postagem
-- Aula 11 - Administração - níveis de permissão
-- Aula 12 - Administração - cadastro de usuários
-- Aula 13 - Administração - página do editor
-- Aula 14 - Sistema de comentários
-- Aula 13 - Administração - moderação de comentários
+
+- Aula 05 - Cadastro de Usuários
+- Aula 06 - Login (session)
+- Aula 07 - Administração - cadastrar postagem
+- Aula 08 - Administração - níveis de permissão de usuários
+
+- Aula 09 - Listando postagens do banco de dados (estrutural)
+- Aula 10 - MVC e Front Controller
+- Aula 11 - Aplicando PHP Orientado a Objetos
+- Aula 12 - Composer
+- Aula 13 - Sistema de comentários
+- Aula 14 - Administração - moderação de comentários
 - Aula 15 - Slim framework
 - Aula 16 - PHP ActiveRecord
 - Aula 17 - NodeJS, NPM e Bower - instalando bootstrap e angularjs
