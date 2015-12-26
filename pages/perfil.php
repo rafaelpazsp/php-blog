@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>Gilglécio Santos | PHP Blog v1.0</title>
-		<meta charset="utf-8">
-	</head>
-
-	<body>
-
-		<h1>PHP Blog</h1>
-			<p><a href="/">PHP Blog</a> > Gilglécio Santos</p>
+<p><a href="/">PHP Blog</a> > Gilglécio Santos</p>
 		<aside>
 			<h2>Gilglécio Santos</h2>
 			<section>
@@ -42,6 +32,3 @@
 			<a href="#">&laquo; Mais Antigas</a>
 			<a href="#">Mais Recentes &raquo;</a>
 		</section>
-
-	</body>
-</html>
